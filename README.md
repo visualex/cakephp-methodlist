@@ -1,2 +1,3 @@
-# cakephp-methodlist
-list methods in classes
+# cakephp methodlist
+
+List all Controllers and their public methods.
